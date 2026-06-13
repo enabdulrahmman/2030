@@ -1,0 +1,6 @@
+{
+  "name": "SubHook",
+  "description": "متجر SubHook للاشتراكات والخدمات الرقمية وحلول الذكاء الاصطناعي والتصميم والخدمات الرقمية الفاخرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
