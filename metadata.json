@@ -1,6 +1,8 @@
 {
-  "name": "SubHook",
-  "description": "متجر SubHook للاشتراكات والخدمات الرقمية وحلول الذكاء الاصطناعي والتصميم والخدمات الرقمية الفاخرة",
+  "name": "sub hook 2030",
+  "description": "Comprehensive clone of the 7G Media website featuring digital marketing solutions, web design, bilingual content creation, video production, branding, portfolio case studies, interactive quote calculator, and Arabic/English language support.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
